@@ -1,0 +1,7 @@
+ext2fs
+*.o
+*.img.bak
+test*.img
+*.webp
+*.webm
+*.pdf
